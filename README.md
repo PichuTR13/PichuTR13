@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PichuTR13
-- 👀 I’m interested in Wii Modding and gaming.
+- 👀 I’m interested in Wii and 3DS Modding and gaming.
 - 🌱 I’m currently learning Wii Modding...
-- 💞️ I’m looking to collaborate on the Wii Homebrew community, but I kinda suck at coding.
+- 💞️ I’m looking to collaborate on the Wii and 3DS Homebrew community, but I kinda suck at coding.
 
 <!---
 PichuTR13/PichuTR13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
